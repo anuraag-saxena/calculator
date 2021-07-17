@@ -11,7 +11,6 @@ Will be working on it later
 <td><img src="images/2.jpg" alt="Dark Mode"></td>
 </tr>
 </table>
-<img src="images/1.jpg" alt="Light Mode" width="" height="">
 
 
 ## Getting Started

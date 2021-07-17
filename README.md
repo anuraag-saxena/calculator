@@ -4,7 +4,7 @@ Day 3: Learned about GridView
 UI may change a little based on device
 Will be working on it later
 
-##Fluttter App Images
+## Fluttter App Images
 <table>
 <tr>
 <td><img src="images/1.jpg" alt="Light Mode"></td>

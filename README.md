@@ -7,8 +7,8 @@ Will be working on it later
 ## Fluttter App Images
 <table>
 <tr>
-<td><img src="images/1.jpg" alt="Light Mode"></td>
-<td><img src="images/2.jpg" alt="Dark Mode"></td>
+<td><img src="https://www.linkpicture.com/q/WhatsApp-Image-2021-07-17-at-4.08.09-PM.jpeg" alt="Light Mode"></td>
+<td><img src="https://www.linkpicture.com/q/WhatsApp-Image-2021-07-17-at-4.08.09-PM-1.jpeg" alt="Dark Mode"></td>
 </tr>
 </table>
 

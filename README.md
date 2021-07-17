@@ -1,6 +1,18 @@
-# calc
+# calculator
 
-for play store
+Day 3: Learned about GridView
+UI may change a little based on device
+Will be working on it later
+
+##Fluttter App Images
+<table>
+<tr>
+<td><img src="images/1.jpg" alt="Light Mode"></td>
+<td><img src="images/2.jpg" alt="Dark Mode"></td>
+</tr>
+</table>
+<img src="images/1.jpg" alt="Light Mode" width="" height="">
+
 
 ## Getting Started
 

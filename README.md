@@ -12,7 +12,6 @@ Will be working on it later
 </tr>
 </table>
 
-<img src="images/2.jpg" alt="Dark Mode">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
